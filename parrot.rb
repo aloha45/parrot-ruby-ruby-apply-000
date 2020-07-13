@@ -2,7 +2,7 @@
 # returns the phrase
 
 
-def parrot(phrase="Pretty bird!")
+def parrot(phrase="Squawk!")
   puts "Pretty bird!"
   return "Pretty bird!"
 end
